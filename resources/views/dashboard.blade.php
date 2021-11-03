@@ -28,7 +28,7 @@
                <tbody>
                    <td>{{$data->name}}</td>
                    <td>{{$data->Email}}</td>
-                   <td><a href="logout">logout</a></td>
+                   <td><a href="login">logout</a></td>
                </tbody>
             </table>
             
